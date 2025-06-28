@@ -286,7 +286,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
-- Support: [support@example.com](mailto:yagnikshingala584@gmail.com)
+- Support: [yagnikshingala584@gmail.com](mailto:yagnikshingala584@gmail.com)
 
 ---
 
