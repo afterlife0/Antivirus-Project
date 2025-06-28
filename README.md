@@ -286,8 +286,7 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
-- Website: [https://antivirus.example.com](https://antivirus.example.com)
-- Support: [support@example.com](mailto:support@example.com)
+- Support: [support@example.com](mailto:yagnikshingala584@gmail.com)
 
 ---
 
